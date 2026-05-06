@@ -1,6 +1,6 @@
 # BMEIS Hackathon 2026
 
-Join us for three days of coding, collaboration, and networking with members and friends of BMEIS!
+Join us for three days of coding, collaboration, and networking with members of BMEIS.
 
 ## Event Details
 
@@ -17,7 +17,7 @@ London SE1 7AR
 
 [**Register on Eventbrite**](https://www.eventbrite.com/placeholder-link)
 
-**Project Ideas:** Students, post-docs, and PIs are all encouraged to pitch project ideas! Participants can also self-select into projects that interest them. Submit your project ideas using the [Project Proposal Template](projects/TEMPLATE.md).
+**Project Ideas:** Students, post-docs, and PIs are all encouraged to pitch project ideas. Participants can also self-select into projects that interest them. Submit your project ideas using the [Project Proposal Template](projects/TEMPLATE.md).
 
 ## Provisional Daily Schedule
 
