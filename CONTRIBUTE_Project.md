@@ -10,9 +10,9 @@ You can submit your project proposal in two ways:
 
 1. Download the [Project Proposal Template](projects/TEMPLATE.md)
 2. Fill out all sections with your project details
-3. Email the completed proposal to the organizers
+3. Email the completed proposal to the organizers (konrad.wagstyl@kcl.ac.uk)
 
-This option is perfect if you're not familiar with Git/GitHub.
+This option is fine if you're not familiar with Git/GitHub.
 
 ### Option B: Via Pull Request (Recommended for Git users)
 
