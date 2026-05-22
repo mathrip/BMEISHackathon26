@@ -31,7 +31,6 @@
 
 **Submission Instructions:**
 1. Fork this repository
-2. Create a new folder with your project name
-3. Copy this template into your project folder
-4. Fill out all sections
-5. Submit a pull request to the main repository
+2. Copy this template to a new md file with your project name
+3. Fill out all sections
+4. Submit a pull request to the main repository
