@@ -15,7 +15,7 @@ London SE1 7AR
 
 **Registration Fee:** £10 (includes tea, coffee, and lunch for all 3 days)
 
-[**Register on Eventbrite**][https://www.eventbrite.co.uk/e/bmeis-hackathon-2026-tickets-1990104820089]
+[**Register on Eventbrite**](https://www.eventbrite.co.uk/e/bmeis-hackathon-2026-tickets-1990104820089)
 
 **Project Ideas:** Project Ideas: Students, post-docs, and PIs are all encouraged to pitch project ideas. We welcome any code project that you feel is achievable in three days and that solves a known biomedical challenge, using data that is open/you already have access to. Participants can also self-select into projects that interest them. Submit your project ideas using the [Project Proposal Template](projects/TEMPLATE.md). Some starter example projects are included.
 
