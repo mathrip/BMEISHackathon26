@@ -6,7 +6,7 @@ Join us for three days of coding, collaboration, and networking with members of 
 
 **Dates:** June 24-26, 2026 (Wednesday to Friday)
 **Time:** 9:00 AM - 5:00 PM daily
-**Venue:** Hinduja Lecture Theatre,
+**Venue:** Workshop Space, 1st Floor,
 London Institute for Healthcare Engineering (LIHE), 
 King's College London, 
 St Thomas' Campus, 
@@ -15,7 +15,7 @@ London SE1 7AR
 
 **Registration Fee:** £10 (includes tea, coffee, and lunch for all 3 days)
 
-[**Register on Eventbrite**](https://www.eventbrite.com/placeholder-link)
+[**Register on Eventbrite**][https://www.eventbrite.co.uk/e/bmeis-hackathon-2026-tickets-1990104820089]
 
 **Project Ideas:** Project Ideas: Students, post-docs, and PIs are all encouraged to pitch project ideas. We welcome any code project that you feel is achievable in three days and that solves a known biomedical challenge, using data that is open/you already have access to. Participants can also self-select into projects that interest them. Submit your project ideas using the [Project Proposal Template](projects/TEMPLATE.md). Some starter example projects are included.
 
