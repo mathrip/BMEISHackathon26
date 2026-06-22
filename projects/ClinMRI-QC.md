@@ -43,7 +43,7 @@ The dataset contains :
   - lesion mask on FLAIR
 
 
-To download: 
+To download (~7GB): 
 ```bash
 git clone https://github.com/muschellij2/open_ms_data.git
 ```
